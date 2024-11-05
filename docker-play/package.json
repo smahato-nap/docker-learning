@@ -1,0 +1,18 @@
+{
+  "name": "docker-play",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "eslint": "9.14.0",
+    "eslint-config-next": "15.0.2",
+    "next": "13.4.1",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
